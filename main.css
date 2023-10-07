@@ -1,0 +1,36 @@
+body{
+    font-family: Roboto,Arial, Helvetica, sans-serif;
+}
+.select-font{
+    font-family: Rowdies,Arial, Helvetica, sans-serif;
+}
+.container h1{
+    font-size: 40px;
+}
+.navbar{
+    background-color:rgb(16, 120, 238);
+    color: #fff;
+}
+.font-blue{
+    color:rgb(16, 120, 238);
+}
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.nav-moveis .nav-link.active:hover,
+.navbar-brand:hover{
+    color: #fff;
+
+}
+#cabecalho .nav .nav-link.active{
+    background-color: #fff;
+    color:rgb(16, 120, 238);
+}
+aside{
+    display: flex;
+    justify-content: center;
+}
+.nav-moveis .nav-link.active,
+#fale-conosco button{
+    background-color:rgb(16, 120, 238);
+    color: #fff;
+}
