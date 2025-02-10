@@ -1,6 +1,5 @@
 # Luar Móveis
 
-![Badge](https://img.shields.io/badge/version-1.0-blue.svg)
 
 ## Descrição
 Luar Móveis é um projeto web responsivo desenvolvido para apresentar uma loja de móveis. O site conta com um layout moderno e elegante, utilizando **Bootstrap** para estilização e responsividade. O projeto oferece informações sobre os produtos, categorias e um formulário de contato.
